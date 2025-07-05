@@ -29,7 +29,7 @@ Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
 ```
 scoop bucket add extras;
 scoop bucket add versions;
-scoop install 7zip autohotkey wezterm neovim git lazygit zoxide xh jq fzf zig nodejs pnpm yazi mpv fd ffmpeg poppler pandoc ripgrep unar steam spotify discord telegram onlyoffice-desktopeditors xnviewmp jpegview glazewm godot syncthing parsec cursor everything qbittorrent pia-desktop hwinfo obsidian
+scoop install 7zip autohotkey wezterm neovim git lazygit zoxide xh jq fzf zig nodejs pnpm yazi mpv fd ffmpeg poppler pandoc ripgrep unar steam spotify discord telegram onlyoffice-desktopeditors xnviewmp jpegview glazewm godot syncthing parsec cursor everything qbittorrent pia-desktop hwinfo obsidian firefox
 ```
 
 (check if zebar is installed alongside glazewm)
